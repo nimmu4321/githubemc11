@@ -1,1 +1,2 @@
-thi file is created from test2.txt
+thi file is created from test2.txt, ok confirmed
+
